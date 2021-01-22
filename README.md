@@ -23,3 +23,16 @@ Buat Sebuah *API* untuk aplikasi TODO. <br>
 - kerjakan di repo forking anda
 
 ![](https://media.giphy.com/media/ieUnS3iEokPahZAZj6/giphy.gif) 
+
+![Feature Test Result](https://raw.githubusercontent.com/farrasmuttaqin/recruitments/main/public/feature_test_result.png)
+<p align="center">Feature Test Result</p>
+
+Figure 1. above is the result of feature test with --coverage-html, 
+
+Thank you,
+
+i hope i can join TrawlBens and become great together!
+
+best regards,
+
+m farras.

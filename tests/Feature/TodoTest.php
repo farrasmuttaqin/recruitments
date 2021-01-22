@@ -17,7 +17,7 @@ class TodoTest extends TestCase
      *
      * @return  void
      */
-    public function test_auth_api()
+    public function test_todo_api()
     {
         /**
          * ------------------------------- Positive Feature Test Section -------------------------------
